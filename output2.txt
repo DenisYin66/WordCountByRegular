@@ -1,0 +1,10 @@
+with : 154
+user : 121
+that : 101
+beacons : 81
+from : 77
+users : 77
+each : 75
+localization : 72
+position : 57
+time : 53
